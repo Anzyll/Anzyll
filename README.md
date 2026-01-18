@@ -42,7 +42,9 @@ Currently strengthening backend fundamentals to transition toward full-stack dev
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anzyll&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzyll&layout=compact&theme=tokyonight)
+
 
 
 ### 📫 Connect With Me
