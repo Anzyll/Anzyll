@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Muhammed Anzil 👋</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | PostgreSQL</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+System+Design;Building+Scalable+APIs;Focused+on+High+Performance+Backend+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammed%20Anzil&fontSize=40&fontColor=ffffff" />
+</p>
 
 ---
 
@@ -104,6 +110,32 @@ Java 17, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, D
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anzyll&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anzyll&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzyll&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+![snake gif](https://github.com/Anzyll/Anzyll/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💡 Engineering Philosophy
+
+- Build for correctness first, then optimize  
+- Prefer simplicity over unnecessary abstraction  
+- Design systems assuming failure will happen  
+- Write code that scales with teams and traffic  
+
 
 ---
 
@@ -114,5 +146,6 @@ Java 17, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, D
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://muhammedanzilm.vercel.app)
 
 ---
-
-⭐ Interested in backend engineering, scalable system design, API development, and production-ready Java applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anzyll&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
