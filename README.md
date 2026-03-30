@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Muhammed Anzil 👋</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammed%20Anzil&fontSize=40&fontColor=ffffff" />
-</p>
 
 ---
 
