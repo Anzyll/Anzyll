@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Muhammed Anzil 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+System+Design;Building+Scalable+APIs;Focused+on+High+Performance+Backend+Systems" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammed%20Anzil&fontSize=40&fontColor=ffffff" />
