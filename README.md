@@ -72,38 +72,6 @@ Currently working on improving my expertise in:
 ---
 
 
-### 🚀 Featured Project
-
-#### 🛒 E-Commerce Backend System
-
-Production-oriented e-commerce backend built with **Java 17, Spring Boot, PostgreSQL, Docker, and AWS**.
-
-**Highlights:**
-- Architected a modular backend using clean layered architecture:
-  **Controller → Service/Orchestrator → Repository**
-- Built **20+ REST endpoints** covering:
-  - user management
-  - product management
-  - cart workflows
-  - wishlist workflows
-  - order workflows
-- Implemented **role-based access control (User/Admin)** with **Spring Security + JWT**
-- Designed **transactional order placement and cancellation flows** using `@Transactional`
-- Ensured **inventory consistency** and safer business operations
-- Added layered testing using:
-  - Unit Testing
-  - Integration Testing
-  - `@DataJpaTest`
-  - Testcontainers
-  - End-to-End Testing
-- Used **JaCoCo** for coverage tracking of core business logic
-- Deployed containerized backend on **AWS EC2** with **PostgreSQL on AWS RDS**
-- Built a **CI/CD pipeline** to automate build, test, Docker image creation, and deployment
-
-**Tech Stack:**  
-Java 17, Spring Boot, Spring Security, Spring Data JPA, Hibernate, PostgreSQL, Docker, AWS EC2, AWS RDS, GitHub Actions
-
----
 
 ### 📊 GitHub Stats
 
