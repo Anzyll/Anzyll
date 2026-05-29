@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-Java Backend Developer with hands-on experience building production-oriented backend systems using **Spring Boot, REST APIs, and PostgreSQL**.
+Java Backend Developer with hands-on experience building production-oriented backend systems using **Spring Boot, REST APIs and PostgreSQL**.
 
 I enjoy designing backend architectures, building secure authentication and authorization flows, and developing reliable business workflows with strong focus on **correctness, scalability, and maintainable system design**.
 
