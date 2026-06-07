@@ -86,11 +86,6 @@ Currently working on improving my expertise in:
 
 ---
 
-### 🐍 Contribution Graph
-
-![snake gif](https://github.com/Anzyll/Anzyll/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 💡 Engineering Philosophy
 
