@@ -22,39 +22,49 @@ Building scalable services with Java, Spring Boot, Kafka, Redis, PostgreSQL, Ter
 
 ## 🛠️ Tech Stack
 
-### Core Technologies
+### Backend & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,terraform,aws,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
-### Distributed Systems & Security
+### Databases & Messaging
 
 <p align="center">
-  Apache Kafka • Spring Security • JWT • OAuth2 • Keycloak • RBAC
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka" />
 </p>
 
-### Observability & Testing
+### Security
 
 <p align="center">
-  Prometheus • Grafana • OpenTelemetry • Tempo • JUnit 5 • Mockito • Testcontainers • k6
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,keycloak" />
 </p>
 
----
+### Cloud & DevOps
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,terraform,aws,githubactions,git" />
+</p>
 
-### 🔥 High-Concurrency Flash Sale System
+### Observability
 
-Distributed backend system designed to handle high traffic using Redis, Kafka, Keycloak, Terraform, AWS, and full observability tooling.
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana" />
+</p>
 
-### 🛒 E-Commerce Backend API
+<p align="center">
+  OpenTelemetry • Tempo
+</p>
 
-Production-ready backend platform featuring authentication, authorization, CI/CD automation, cloud deployment, and automated testing.
+### Testing
 
-### 📅 BookMyVenue
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=junit,mockito" />
+</p>
 
-Venue booking platform focused on authentication, booking workflows, role-based access control, and scalable backend architecture.
+<p align="center">
+  Testcontainers • k6
+</p>
 
 ---
 
