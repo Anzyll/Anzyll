@@ -3,84 +3,58 @@
 <h3 align="center">Software Engineer | Backend & Distributed Systems</h3>
 
 <p align="center">
-Designing scalable backend systems, event-driven architectures, and cloud-native applications.
+Building scalable backend systems, event-driven architectures, and cloud-native applications.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Anzyll">
-    <img src="https://komarev.com/ghpvc/?username=Anzyll&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Anzyll&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Backend-focused Software Engineer passionate about building reliable, scalable, and production-ready systems.
+Backend-focused Software Engineer interested in distributed systems, cloud infrastructure, and production engineering.
 
-My interests include distributed systems, event-driven architectures, cloud infrastructure, observability, and performance engineering.
+Building scalable services with Java, Spring Boot, Kafka, Redis, PostgreSQL, Terraform, AWS, and modern observability tooling.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Core Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,terraform,aws,githubactions,git" />
 </p>
 
-### Databases & Storage
+### Distributed Systems & Security
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
+<p align="center">
+  Apache Kafka • Spring Security • JWT • OAuth2 • Keycloak • RBAC
 </p>
 
-### Distributed Systems
+### Observability & Testing
 
-<p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<p align="center">
+  Prometheus • Grafana • OpenTelemetry • Tempo • JUnit 5 • Mockito • Testcontainers • k6
 </p>
 
-### Security
+---
 
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
-</p>
+## 🚀 Featured Projects
 
-### Observability
+### 🔥 High-Concurrency Flash Sale System
 
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge" />
-</p>
+Distributed backend system designed to handle high traffic using Redis, Kafka, Keycloak, Terraform, AWS, and full observability tooling.
 
-### Cloud & DevOps
+### 🛒 E-Commerce Backend API
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+Production-ready backend platform featuring authentication, authorization, CI/CD automation, cloud deployment, and automated testing.
 
-### Testing
+### 📅 BookMyVenue
 
-<p>
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
-</p>
+Venue booking platform focused on authentication, booking workflows, role-based access control, and scalable backend architecture.
 
 ---
 
@@ -99,7 +73,7 @@ My interests include distributed systems, event-driven architectures, cloud infr
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/muhammedanzilm">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
