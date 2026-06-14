@@ -14,7 +14,7 @@ Building scalable backend systems, event-driven architectures, and cloud-native 
 ---
 
 
-## 👨‍💻 About Me
+## About Me
 
 Backend-focused Software Engineer interested in distributed systems, cloud infrastructure, and production engineering.
 
@@ -24,7 +24,7 @@ Building scalable services with Java, Spring Boot, Kafka, Redis, PostgreSQL, Ter
 ---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,docker,terraform,aws,githubactions,git" />
@@ -35,19 +35,14 @@ Building scalable services with Java, Spring Boot, Kafka, Redis, PostgreSQL, Ter
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OAuth2-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tempo-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=oauth,jwt,opentelemetry,testcontainers,k6" />
 </p>
 
 
 ---
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anzyll&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -61,7 +56,7 @@ Building scalable services with Java, Spring Boot, Kafka, Redis, PostgreSQL, Ter
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammedanzilm">
