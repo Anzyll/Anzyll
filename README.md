@@ -1,57 +1,98 @@
-<div align="center">
-
-```
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   $ whoami                                                   │
-│   > Muhammed Anzil M                                         │
-│                                                              │
-│   $ cat role.txt                                             │
-│   > Software  Engineer                                       │
-│   > Java Spring Boot · PostgreSQL · Kafka · Redis · AWS      │
-│                                                              │
-│   $ echo $LOCATION                                           │
-│   > Calicut, Kerala                                          │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedanzilm)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Anzyll)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=flat-square&logoColor=white)](https://muhammedanzilm.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anzil2003m@gmail.com)
-
-</div>
+<h1 align="center">Anzil M</h1>
+<p align="center">
+  <strong>// java backend developer · distributed systems · cloud & observability</strong><br>
+  <em>Calicut, Kerala</em><br><br>
+  <a href="https://linkedin.com/in/muhammad-anzil-m">linkedin</a> ·
+  <a href="https://github.com/Anzyl">github/Anzyl</a> ·
+  <a href="https://muhammadanzil.vercel.io">portfolio</a> ·
+  <a href="mailto:anzil2003m@gmail.com">anzil2003m@gmail.com</a>
+</p>
 
 ---
 
 
-### `// what i build`
+## stack
 
-```
-⚡  Distributed systems      Kafka, Redis, async workflows, DLQ, high-concurrency design
-🔐  Secure API design        JWT, OAuth2, Keycloak, RBAC — auditable auth flows
-📊  Observability            Prometheus, Grafana, OpenTelemetry, Tempo, load testing with k6
-🧪  Tested & deployed        JUnit 5, Testcontainers, Docker, Terraform, GitHub Actions CI/CD
-```
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+#### backend
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data
+- Hibernate
+
+#### database
+- PostgreSQL
+- Redis
+- Flyway
+
+#### messaging
+- Apache Kafka
+- Event-driven arch
+- DLQ
+
+    </td>
+    <td valign="top" width="33%">
+
+#### security
+- JWT
+- Keycloak
+- OAuth2
+- RBAC
+
+#### observability
+- Prometheus
+- Grafana
+- OpenTelemetry
+- Tempo
+- Micrometer
+- k6
+
+#### testing
+- JUnit 5
+- Mockito
+- Testcontainers
+- JaCoCo
+
+    </td>
+    <td valign="top" width="33%">
+
+#### cloud/devops
+- Docker
+- Terraform
+- AWS EC2
+- RDS
+- ElastiCache
+- ECR
+- GitHub Actions
+
+#### frontend
+- React
+- JavaScript
+- HTML/CSS
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-### `// stack`
+## connect
 
-| Layer | Technologies |
-|---|---|
-| **Backend** | `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` |
-| **Distributed** | `Apache Kafka` `Redis` `Event-driven architecture` `DLQ` `Async messaging` |
-| **Database** | `PostgreSQL` `Redis` `Flyway` `Relational data modeling` |
-| **Security** | `JWT` `Keycloak` `OAuth2` `RBAC` |
-| **Observability** | `Prometheus` `Grafana` `OpenTelemetry` `Tempo` `Micrometer` `k6` |
-| **Infra** | `Docker` `Terraform` `AWS EC2` `AWS RDS` `ElastiCache` `ECR` `GitHub Actions` |
-| **Testing** | `JUnit 5` `Mockito` `Testcontainers` `JaCoCo` |
-| **Frontend** | `React` `JavaScript` `HTML` `CSS` |
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Anzyll&label=profile+views&color=7F77DD&style=flat-square" />
-</div>
+<p>
+  <a href="https://linkedin.com/in/muhammad-anzil-m">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Anzyl">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:anzil2003m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://muhammadanzil.vercel.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
