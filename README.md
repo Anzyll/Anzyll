@@ -35,7 +35,12 @@ Building scalable services with Java, Spring Boot, Kafka, Redis, PostgreSQL, Ter
 </p>
 
 <p align="center">
-  OAuth2 • JWT • OpenTelemetry • Tempo • Testcontainers • k6
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OAuth2-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tempo-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge" />
 </p>
 
 
