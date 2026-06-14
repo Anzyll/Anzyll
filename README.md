@@ -10,7 +10,9 @@ Building scalable backend systems, event-driven architectures, and cloud-native 
   <img src="https://komarev.com/ghpvc/?username=Anzyll&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -18,66 +20,39 @@ Backend-focused Software Engineer interested in distributed systems, cloud infra
 
 Building scalable services with Java, Spring Boot, Kafka, Redis, PostgreSQL, Terraform, AWS, and modern observability tooling.
 
+
 ---
+
 
 ## 🛠️ Tech Stack
 
-### Backend & Frameworks
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
-
-### Databases & Messaging
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka" />
-</p>
-
-### Security
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,keycloak" />
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,terraform,aws,githubactions,git" />
-</p>
-
-### Observability
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,docker,terraform,aws,githubactions,git" />
 </p>
 
 <p align="center">
-  OpenTelemetry • Tempo
-</p>
-
-### Testing
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=junit,mockito" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=keycloak,prometheus,grafana,junit,mockito" />
 </p>
 
 <p align="center">
-  Testcontainers • k6
+  OAuth2 • JWT • OpenTelemetry • Tempo • Testcontainers • k6
 </p>
+
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anzyll&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anzyll&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzyll&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzyll&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anzyll&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 ---
 
